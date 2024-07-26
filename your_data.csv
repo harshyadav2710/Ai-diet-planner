@@ -1,0 +1,9 @@
+date_time,fats,total_calories,proteins,fibers,sugars,_id,carbohydrates,names
+2024-04-30 03:06:47.197000,25,845,20,2,10,,55,"[' 1. Chicken Tikka Masala', '2. Rice', '3. Naan']"
+2024-05-07 15:14:52.999000,30,796,25,5,10,,45,"[' 1. Chicken Tikka Masala', '2. Basmati Rice', '3. Raita']"
+2024-05-07 15:20:32.659000,30,946,30,5,10,,40,"[' 1. Chicken Tikka Masala', '2. Basmati Rice', '3. Raita', '4. Naan']"
+2024-05-07 15:21:19.047000,20,845,25,5,10,,55,"[' 1. Chicken tikka masala', '2. Rice', '3. Naan']"
+2024-05-07 15:22:42.707000,25,805,20,2,10,,55,"[' 1. Chicken Tikka Masala', '2. Basmati Rice', '3. Raita']"
+2024-05-07 23:24:13.544000,35,695,30,5,10,,55,"[' 1. Chicken Tikka Masala', '2. Rice']"
+2024-05-08 11:14:24.658000,20,450,7,2,30,,55,[' 1. Chocolate Donut']
+2024-07-09 12:00:05.947000,25,400,20,1,1,,10,['1. Fried Chicken']

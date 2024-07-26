@@ -1,0 +1,14 @@
+streamlit
+google.generativeai
+python-dotenv
+pymongo
+langchain
+PyPDF2
+chromadb
+faiss-cpu
+langchain_google_genai
+pillow
+pandas
+csv
+tempfile
+subprocess
